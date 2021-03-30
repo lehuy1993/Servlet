@@ -1,0 +1,21 @@
+
+
+.input-group-text {
+	background-color: #fff;
+}
+
+body {
+	height: 100%;
+}
+
+.sidebar {
+	min-height: 100vh;
+}
+
+.sidebar ul li {
+	border-top: 1px solid #dee2e6;
+}
+
+.sidebar ul li:last-child {
+	border-bottom: 1px solid #dee2e6;
+}
